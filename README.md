@@ -2,7 +2,7 @@
 
 **Forward Deployed AI Engineer · Full-stack development**
 
-I design and build software for people doing specialized work. My background in sales shapes how I approach a project: I start with the decisions a customer needs to make, then design the interface and build the systems behind it. I owned product design, implementation, testing, and deployment for the four projects below.
+I build full-stack applications with TypeScript, React, Next.js, and PostgreSQL. I design the interfaces and data models, integrate APIs, and test and deploy the finished workflows. My projects include map-based deal analysis, rental underwriting, audio discovery, and AI filmmaking tools.
 
 ## Selected projects
 
