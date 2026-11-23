@@ -36,7 +36,7 @@ Next.js · TypeScript · Supabase · Stripe
 
 ## Industry Studio
 
-Each app opens to a sample case you can work through without signing in. The gallery also includes industry websites and landing pages. [Browse the project gallery →](https://industry-application-studio.vercel.app/)
+Each app opens to a sample case you can work through without signing in. [Browse the 13-project gallery →](https://industry-application-studio.vercel.app/)
 
 | Live demo | Try it |
 | --- | --- |
@@ -45,6 +45,8 @@ Each app opens to a sample case you can work through without signing in. The gal
 | [Dockline](https://industry-application-studio.vercel.app/dockline/) | Delay a refrigerated truck and reassign bays and crews around a locked appointment. |
 | [Clearbook](https://industry-application-studio.vercel.app/clearing/) | Match an invoice to its order and delivery receipt, approve the undisputed amount, and resolve a duplicate freight charge. |
 | [Northwood Registrar](https://industry-application-studio.vercel.app/registrar/) | Close an exam hall, review which students must move, and publish the revised timetable. |
+
+Two industry websites connect the customer experience to the staff desk. Follow a test-drive request through [Motorhouse](https://industry-application-studio.vercel.app/motorhouse/) or take a home viewing from request to confirmation in [Stillwell](https://industry-application-studio.vercel.app/stillwell/).
 
 ## More engineering projects
 
