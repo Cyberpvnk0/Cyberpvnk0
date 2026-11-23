@@ -4,6 +4,18 @@
 
 I build full-stack applications with TypeScript, React, Next.js, and PostgreSQL. I design the interfaces and data models, integrate APIs, and test and deploy the finished workflows. My projects include map-based deal analysis, rental underwriting, audio discovery, and AI filmmaking tools.
 
+## Industry Studio
+
+Each app opens to a sample case you can work through without signing in. The gallery also includes three industry landing pages and three multi-page business websites. [Browse all 11 projects →](https://industry-application-studio.vercel.app/)
+
+| Live demo | Try it |
+| --- | --- |
+| [Grainform](https://industry-application-studio.vercel.app/cutplan/) | Change a cabinet part, compare cutting layouts, and return usable offcuts to inventory. |
+| [Tenderline](https://industry-application-studio.vercel.app/bidroom/) | Find a missing cost in a construction bid, compare the revised bids, and record the award. |
+| [Dockline](https://industry-application-studio.vercel.app/dockline/) | Delay a refrigerated truck and reassign bays and crews around a locked appointment. |
+| [Clearbook](https://industry-application-studio.vercel.app/clearing/) | Match an invoice to its order and delivery receipt, approve the undisputed amount, and resolve a duplicate freight charge. |
+| [Northwood Registrar](https://industry-application-studio.vercel.app/registrar/) | Close an exam hall, review which students must move, and publish the revised timetable. |
+
 ## Selected projects
 
 ### Relay Practice
