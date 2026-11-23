@@ -6,6 +6,30 @@ I build full-stack applications with TypeScript, React, Next.js, and PostgreSQL.
 
 ## Selected projects
 
+### Relay Practice
+
+Trainers write customer support scenarios, agents work through them, and coaches replay the conversation alongside the decisions the agent made. I built a scoring system that checks which evidence the agent gathered and how they resolved the case. Try the two billing cases to see why a pending authorization and a duplicate payment call for different responses.
+
+JavaScript · Node.js · SQLite (self-hosted team mode)
+
+[Try the Relay Practice demo](https://relay-support-practice.vercel.app)
+
+### Daymark · Employee Onboarding Desk
+
+I built Daymark to turn a new hire’s role and start date into an onboarding checklist and access plan. Try transferring a support contractor to Engineering. Daymark carries over completed work, assigns the new tasks, and records which permissions it revoked.
+
+JavaScript · Node.js · Vercel Functions
+
+[Try the Daymark demo](https://employee-onboarding-desk.vercel.app)
+
+### Faultline · Bug Triage Workspace
+
+Two customers report a blank PDF. Is it the same bug? I built Faultline to compare reproduction steps and export settings, show why reports might match, and let a reviewer decide. Once engineering submits a fix, each linked reporter gets a chance to verify it or reopen the issue.
+
+JavaScript · Node.js · Evidence matching
+
+[Try the Faultline demo](https://bug-triage-workspace.vercel.app)
+
 ### REI Workspace
 
 A real estate investor can find a property on a map, analyze the deal, negotiate an offer, and sign documents in one workspace. I built the map-based search, offer and counteroffer flows, and document signing around that sequence.
